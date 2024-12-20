@@ -1,8 +1,9 @@
 ## API Reference
 
+`Base URL`: https://learning-space-backend.vercel.app
+
 #### Get all courses
 
-Base URL: https://learning-space-backend.vercel.app
 
 ```bash
   GET /courses
