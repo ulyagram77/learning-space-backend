@@ -1,20 +1,4 @@
 {
-  "reviews": [
-    {
-      "id": 1,
-      "student": "Олег",
-      "course": "JavaScript",
-      "rating": 5,
-      "comment": "Відмінний курс!"
-    },
-    {
-      "id": 2,
-      "student": "Марина",
-      "course": "Python",
-      "rating": 4,
-      "comment": "Було складно, але цікаво!"
-    }
-  ],
   "courses": [
     {
       "id": 1,
