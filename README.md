@@ -4,7 +4,7 @@
 
 Base URL: https://learning-space-backend.vercel.app
 
-```http
+```bash
   GET /courses
 ```
 
